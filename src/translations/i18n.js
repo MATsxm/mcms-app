@@ -22,7 +22,7 @@ i18n
         common: common_en,
       },
       dk: {
-        title: 'Denmark',
+        title: 'Dansk',
         common: common_dk,
       },
       vi: {
@@ -30,23 +30,23 @@ i18n
         common: common_vi,
       },
       th: {
-        title: 'ThaiLand',
+        title: 'ภาษาไทย',
         common: common_th,
       },
       ua: {
-        title: 'Ukraine',
+        title: 'Yкраїнська',
         common: common_ua,
       },
       es: {
-        title: 'Spain',
+        title: 'Español',
         common: common_es,
       },
       hr: {
-        title: 'Croatia',
+        title: 'Hrvatski',
         common: common_hr,
       },
       fr: {
-        title: 'France',
+        title: 'Français',
         common: common_fr,
       },
     },
