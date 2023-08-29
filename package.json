@@ -116,6 +116,15 @@
   },
   "resolutions": {
     "react": "^17",
-    "react-dom": "^17"
+    "react-dom": "^17",
+    "tough-cookie": "^4",
+    "semver": "^7",
+    "jsdom": "^16",
+    "nth-check": "^2",
+    "postcss": "^8",
+    "json5": "^2",
+    "d3-color": "^3",
+    "minimatch": "^5",
+    "glob-parent": "^5.1.2"
   }
 }
