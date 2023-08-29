@@ -15937,9 +15937,9 @@ victory-vendor@^36.6.8:
     d3-timer "^3.0.1"
 
 viem@^1.0.0:
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/viem/-/viem-1.8.1.tgz#36e4e7db430b2a5b5535e455ad2a7da5ef63cca5"
-  integrity sha512-g+8dW8K6uae+3k/5pezSmlwo3/G+uEZiQsHlJooH86Z4PT3clgtU179iL/GNEcNGwafyJh/Iq/1e+FTbHQKH8Q==
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/viem/-/viem-1.9.0.tgz#134293919146ee2505d72538e4e530d2071dee2c"
+  integrity sha512-YSRmS6ck2pVQZLDTwpNb04c8dN74uxMgDlj2jAixbCokP1e1th2ly8j+EQVRdwq0mFAW4Pdmx8/KNIICtkQLuA==
   dependencies:
     "@adraffy/ens-normalize" "1.9.0"
     "@noble/curves" "1.1.0"
@@ -15947,7 +15947,6 @@ viem@^1.0.0:
     "@scure/bip32" "1.3.0"
     "@scure/bip39" "1.2.0"
     "@types/ws" "^8.5.4"
-    "@wagmi/chains" "1.7.0"
     abitype "0.9.3"
     isomorphic-ws "5.0.0"
     ws "8.12.0"
